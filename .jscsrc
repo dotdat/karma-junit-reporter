@@ -1,0 +1,11 @@
+{
+    "preset": "google",
+    "validateIndentation": 4,
+    "requirePaddingNewlinesInBlocks": true,
+    "requireSpaceBetweenArguments": true,
+    "disallowSpaceBeforeBinaryOperators": [","],
+    "requirePaddingNewLinesInObjects": true,
+    "disallowKeywordsOnNewLine": null,
+    "requireKeywordsOnNewLine": ["else"],
+    "disallowSpaceAfterObjectKeys": true
+}
